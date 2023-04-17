@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @7Codez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi, I’m @7Codez
 
-<!---
-7Codez/7Codez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The meaning of "7Codez" can be described as positive and reflective of concepts such as success, professionalism, and innovation.
+
+This is due to the use of the number 7, which symbolizes good luck and perfection, and the word "Codez", which means coding and encryption, representing skill, innovation, and security in programming operations.
