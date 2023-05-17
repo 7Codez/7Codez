@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @7Codez
 
-"Being a strong programmer means transforming complex problems into elegant solutions, turning imagination into reality, and continuously pushing the boundaries of what is possible. By 7Codez"
+"Being a strong programmer means transforming complex problems into elegant solutions, turning imagination into reality, and continuously pushing the boundaries of what is possible. - By 7Codez"
 
 The meaning of "7Codez" can be described as positive and reflective of concepts such as success, professionalism, and innovation.
 
